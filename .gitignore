@@ -131,4 +131,4 @@ dmypy.json
 
 # submissions
 # add all csvs
-.csv
+*.csv
